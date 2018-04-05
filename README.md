@@ -16,7 +16,9 @@ You can find the definition and more insight into the CLT  [here](https://reyvaz
 * [README.md](README.md): this file
 
 <br>
-You can see a video of the animation [here](https://rexvaz.com/files/plt_outputs/clt_anim.html)
+
+You can see a video of the animation [here](https://htmlpreview.github.io/?https://github.com/reyvaz/matplotlip-clt-animation/blob/master/clt_anim.html)
+
 <br>
 <hr>
 <br>
